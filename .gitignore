@@ -1,6 +1,5 @@
 .idea/
 target/
 *.iml
-venv/
 *generator.properties
 *generatorConfig.xml
